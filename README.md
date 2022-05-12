@@ -2,6 +2,7 @@
 
 A JavaScript slider component for React Native (iOS and Android).  
 React Native Motion Slider is a high-quality slider with a stunning UI / UX.
+--Fork by HectorTorres to show MaterialComunnityIcons instead of plain values.
 
 ![demo](./demo.gif)
 
@@ -71,6 +72,7 @@ import MotionSlider from 'react-native-motion-slider';
 | onDrag                |              |                                                           |
 
 ## Acknowledgement
+## Authors of the module (I just rewrite some code to display icons instead of values).
 
 *  [Virgil Pana](https://dribbble.com/shots/3868232-ios-Fluid-Slider-ui-ux), who designed the concept and inspired me to create this component. I recommend checking his works.  
   
